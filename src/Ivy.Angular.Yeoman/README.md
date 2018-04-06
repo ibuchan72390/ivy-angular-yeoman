@@ -15,3 +15,8 @@ Current Working Generators:
 Generators in progress
 1. Directive
 2. Guard
+
+
+Once you have completed your new addition, simply execute "yarn test" or if you wish to debug a specific launcher "yarn test-debug:launcher".
+
+All tests default in running under PhantomJS in order to allow me to use this functionality on Bamboo CI Server.
