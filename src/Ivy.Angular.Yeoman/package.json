@@ -1,12 +1,12 @@
 {
   "name": "generator-ivy-angular",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A yeoman generator for working with the Ivy C# Framework's corresponding Angular libraries.",
   "author": "ibuchan@iamglobaleducation.com",
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ibuchan72390/ivy-angular.git"
+    "url": "https://github.com/ibuchan72390/ivy-angular-yeoman.git"
   },
   "scripts": {
     "test-publish": "npm link"
