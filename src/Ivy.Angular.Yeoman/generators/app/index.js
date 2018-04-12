@@ -188,6 +188,7 @@ module.exports = class extends Generator {
             'karma-jasmine-html-reporter',
             'karma-sourcemap-loader',
             'karma-webpack',
+            'time-fix-plugin',
             'typescript',
             'webpack'
         ];
